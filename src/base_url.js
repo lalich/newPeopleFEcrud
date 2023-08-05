@@ -1,0 +1,1 @@
+export const baseUrl = 'https://peoplesbe.onrender.com'
